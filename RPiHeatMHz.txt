@@ -1,0 +1,29 @@
+ Temperature and CPU MHz Measurement
+
+ Start at Wed Jan 15 20:06:05 2020
+
+ Using 10 samples at 1 second intervals
+
+ Boot Settings
+
+ dtparam=audio=on
+ [pi4]
+ dtoverlay=vc4-fkms-v3d
+ max_framebuffers=2
+ [all]
+
+ Seconds
+    0.0      600 scaling MHz,    600 ARM MHz, temp=44.5'C
+    1.0      600 scaling MHz,    600 ARM MHz, temp=45.1'C
+    3.5      600 scaling MHz,    600 ARM MHz, temp=44.5'C
+    4.6      600 scaling MHz,    600 ARM MHz, temp=44.0'C
+    5.7      600 scaling MHz,    600 ARM MHz, temp=44.0'C
+    6.7      600 scaling MHz,    600 ARM MHz, temp=45.1'C
+    7.8      600 scaling MHz,    600 ARM MHz, temp=44.0'C
+    8.9      600 scaling MHz,    600 ARM MHz, temp=44.5'C
+   10.0      600 scaling MHz,    600 ARM MHz, temp=45.1'C
+   11.1      600 scaling MHz,    600 ARM MHz, temp=44.5'C
+   12.2      600 scaling MHz,    600 ARM MHz, temp=45.1'C
+
+ End at   Wed Jan 15 20:06:23 2020
+

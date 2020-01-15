@@ -1,0 +1,73 @@
+ #####################################################
+
+   LanSpeed RasPi 1.0 Wed Jan 15 19:57:39 2020
+ 
+ Current Directory Path: /home/pi/Downloads/Raspberry_Pi_Benchmarks/LanSpeed
+ Total MB   58140, Free MB   54164, Used MB    3977
+
+                        MBytes/Second
+  MB   Write1   Write2   Write3    Read1    Read2    Read3
+
+   8   116.92   185.43   216.47   568.77   612.19   586.90
+  16   195.16   132.89   128.21   467.78   445.58   426.51
+
+ Random         Read                       Write
+ From MB        4        8       16        4        8       16
+ msecs      0.004    0.004    0.004    67.35    20.18    68.66
+
+ 200 Files      Write                      Read                  Delete
+ File KB        4        8       16        4        8       16     secs
+ MB/sec     22.71    25.36    45.61   131.82   229.72   332.28
+ ms/file     0.18     0.32     0.36     0.03     0.04     0.05    0.025
+
+
+                End of test Wed Jan 15 19:58:06 2020
+
+ SYSTEM INFORMATION
+
+From File /proc/cpuinfo
+processor	: 0
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 1
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 2
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 4
+
+processor	: 3
+model name	: ARMv7 Processor rev 4 (v7l)
+BogoMIPS	: 38.40
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU vLinux version 4.19.75-v7+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1270 SMP Tue Sep 24 18:45:11 BST 2019
+ 
+
+From File /proc/version
+Linux version 4.19.75-v7+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1270 SMP Tue Sep 24 18:45:11 BST 2019
+ 
+
+ Additional information - 
+
